@@ -5,7 +5,7 @@ Here's a comprehensive `README.md` file for your Tetris game project:
 
 A classic Tetris implementation using Pygame with modern visuals and smooth gameplay.
 
-![Tetris Game Screenshot](screenshot.png) *(Replace with actual screenshot later)*
+![Tetris Game Screenshot](screenshot.png)
 
 ## 🚀 Features
 
